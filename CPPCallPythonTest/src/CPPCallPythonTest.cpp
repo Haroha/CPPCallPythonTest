@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <stdlib.h>
 #include <windows.h>
-#include <Python.h>
+#include "Python.h"
 
 using namespace std;
 
